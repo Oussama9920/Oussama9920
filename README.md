@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oussama9920
 - 👀 I’m interested in Digital tansformation 
-- 🌱 I’m currently learning ServiceNow developing tools 
+- 🌱 I’m currently learning ServiceNow development tools 
 - 💞️ I’m looking to collaborate on Apps development
 - 📫 How to reach me mamioussama99@gmail.com
 
